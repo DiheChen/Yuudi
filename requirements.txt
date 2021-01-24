@@ -1,0 +1,11 @@
+msgpack
+nonebot_plugin_apscheduler
+aioping
+lxml
+httpx
+nonebot2
+aiohttp
+aiocache
+aioping
+pytz
+ujson
